@@ -28,4 +28,4 @@ You can check the results for each Part in the corresponding folders :
 
 ## Contributors
 * Charalampos Mastrokostas (chmastrokostas@gmail.com) (First Part)
-* Stylianos Krasopoulos (@stelioskrasopoulos) (Second Part) 
+* Stylianos Krasopoulos (stelioskrasopoulos@hotmail.com) (Second Part) 
