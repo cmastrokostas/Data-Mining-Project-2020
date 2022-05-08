@@ -1,0 +1,9 @@
+- Developing in Visual Studio 2019
+- Make sure to set VS for Python development
+- Make sure to have Git installed
+- Project uploaded on a Github Repository
+- On VS sign in with Github account 
+- Clone Repository on Visual Studio 2019 
+- Download essential extensions (Github Extension  and Live Share )
+- To get changes from Github just Go to Git->Pull
+- To update project "Commit" first and then "Push"
